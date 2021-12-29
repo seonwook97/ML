@@ -47,7 +47,7 @@
 
 ## 노션
 
-:link: <https://www.notion.so/seonwook97/048df7d4aab447389342d34edf1f440b?v=f7cf5a328e3545139da795322fa7367d>
+:link: <https://seonwook97.notion.site/048df7d4aab447389342d34edf1f440b?v=f7cf5a328e3545139da795322fa7367d>
 
 
 ## 참조
