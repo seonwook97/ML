@@ -67,7 +67,7 @@
 ## 프로젝트 코드 오픈소스 배포
 
 - 정예원 팀원의 깃허브를 이용한 오픈소스 배포
-- 🔗 https://github.com/uomah/Graduation_Project
+- https://github.com/uomah/Graduation_Project
 
 
 
